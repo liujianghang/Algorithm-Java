@@ -1,4 +1,4 @@
-package Algorithm.basic.class01.class01Copy;
+package class01.class01Copy;
 
 /**
  * 本体的目的是为了引出一个master公式， Tn = a*T(n/b) + O^d

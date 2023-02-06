@@ -1,4 +1,4 @@
-package Algorithm.basic.class04;
+package class04;
 
 // 单链表划分成前面小中间相等后面大的形式
 public class Code05_SmallerEqualBigger {

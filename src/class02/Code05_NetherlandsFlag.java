@@ -1,4 +1,4 @@
-package Algorithm.basic.class02;
+package class02;
 
 public class Code05_NetherlandsFlag {
 

@@ -1,4 +1,4 @@
-package Algorithm.basic.class01.class01Copy;
+package class01.class01Copy;
 
 public class Code02_BubbleSort {
     public static void bubbleSort(int[] arr) {

@@ -1,4 +1,4 @@
-package Algorithm.basic.class03;
+package class03;
 
 import java.util.Arrays;
 import java.util.Comparator;

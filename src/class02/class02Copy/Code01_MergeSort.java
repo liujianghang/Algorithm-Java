@@ -1,4 +1,4 @@
-package Algorithm.basic.class02.class02Copy;
+package class02.class02Copy;
 
 public class Code01_MergeSort {
     public static void mergeSort(int[] arr) {

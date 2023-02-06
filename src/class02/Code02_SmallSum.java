@@ -1,4 +1,4 @@
-package Algorithm.basic.class02;
+package class02;
 
 // 求小和
 public class Code02_SmallSum {

@@ -1,4 +1,4 @@
-package Algorithm.basic.class01.class01Copy;
+package class01.class01Copy;
 
 public class Code03_InsertionSort {
     public static void insertSort(int[] arr) {

@@ -1,4 +1,4 @@
-package Algorithm.basic.class02;
+package class02;
 
 import java.util.PriorityQueue;
 

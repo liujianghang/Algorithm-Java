@@ -1,4 +1,4 @@
-package Algorithm.basic.class04.class04Copy;
+package class04.class04Copy;
 
 public class ReverseList {
     // TODO: 逆转链表

@@ -1,4 +1,4 @@
-package Algorithm.basic.class04.class04Copy;
+package class04.class04Copy;
 
 public class PrintCommonPart {
     // TODO: 给定两个从小到大的链表，给出这两个链表的公共部分

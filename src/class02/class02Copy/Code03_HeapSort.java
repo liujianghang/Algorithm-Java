@@ -1,4 +1,4 @@
-package Algorithm.basic.class02.class02Copy;
+package class02.class02Copy;
 
 public class Code03_HeapSort {
     public static void heapSort(int[] arr) {

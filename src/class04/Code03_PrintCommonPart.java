@@ -1,4 +1,4 @@
-package Algorithm.basic.class04;
+package class04;
 
 public class Code03_PrintCommonPart {
 

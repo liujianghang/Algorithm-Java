@@ -1,4 +1,4 @@
-package Algorithm.basic.class02.class02Copy;
+package class02.class02Copy;
 
 public class Code06_QuickSort {
     public static void quickSort(int[] arr) {

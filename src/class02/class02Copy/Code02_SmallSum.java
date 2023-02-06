@@ -1,4 +1,4 @@
-package Algorithm.basic.class02.class02Copy;
+package class02.class02Copy;
 
 /**
  * 求小和， 每个数左边有多少个数比他小？然后找出所有的数左边比他小的数的和

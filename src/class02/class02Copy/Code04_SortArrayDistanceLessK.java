@@ -1,4 +1,4 @@
-package Algorithm.basic.class02.class02Copy;
+package class02.class02Copy;
 
 import java.util.PriorityQueue;
 
